@@ -13,7 +13,12 @@ public class Student {
     
     private String address;
     private String name;
-     private String address;
+    private String address2;
+    
+    public Student(){
+        
+    }
+    
     public Student(String name){
         this.name = name;
     }
