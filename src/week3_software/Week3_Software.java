@@ -11,7 +11,7 @@ package week3_software;
  */
 public class Week3_Software {
 
-    /**
+    /** Added comment
      * @param args the command line arguments
      */
     public static void main(String[] args) {
