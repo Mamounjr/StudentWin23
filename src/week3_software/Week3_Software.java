@@ -6,6 +6,7 @@
 package week3_software;
 /* added comment for fetch/merge*/
 /*second comment*/
+/* added comment for pull*/
 /**
  *
  * @author Admin
